@@ -1,2 +1,2 @@
-# Comp3800WIT-Fall2022
-The content therein supports the WIT Syllabus for Fall of 2022
+# Comp3800WIT-Spring2023
+The content therein supports the WIT Syllabus for Spring of 2023
